@@ -1,7 +1,3 @@
-Certainly! Below is a README file template for a modern UI JavaScript calculator project:
-
----
-
 # Modern UI JavaScript Calculator
 
 
